@@ -26,7 +26,6 @@
       pkgs.dirb
       pkgs.dirbuster
       pkgs.maven
-      pkgs.chromium
     ];
   };
   programs.home-manager.enable = true;
